@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I spent almost 5 hours listening punjabi songs everyday.
 -->
+
+
+### Connect with me:
+
+[<img align="left" alt="murarimeena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="murarimeena | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="murarimeena | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+[linkedin]: https://www.linkedin.com/in/murarimeena/
+[instagram]: https://www.instagram.com/murarimeenaji/
+[twitter]: https://twitter.com/murarimeenaji
