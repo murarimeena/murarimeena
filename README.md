@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-### Connect with me:
-
-[<img align="left" alt="murarimeena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="murarimeena | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="murarimeena | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+## Connect with me:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![fb](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)][fb]
+[![if](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][ig]
 
 [linkedin]: https://www.linkedin.com/in/murarimeena/
-[instagram]: https://www.instagram.com/murarimeenaji/
 [twitter]: https://twitter.com/murarimeenaji
+[instagram]: https://www.instagram.com/murarimeenaji/
+[fb]: https://www.facebook.com/murarimeenaji/
+
+
